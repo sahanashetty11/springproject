@@ -76,4 +76,9 @@ public class BokksIntegrationTests {
     public void khali(){
         //Dummy test method
     }
+
+    @Test
+    public void khalisecond() {
+        //Dummy test method second branch
+    }
 }
