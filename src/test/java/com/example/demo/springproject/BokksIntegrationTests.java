@@ -71,4 +71,9 @@ public class BokksIntegrationTests {
         ResponseEntity<String> response= this.testRestTemplate.exchange(createURLWithPort("/title/1"), HttpMethod.GET,entity,String.class);
         Assert.assertEquals("yaman",response.getBody());
     }
+
+    @Test
+    public void khali(){
+        //Dummy test method
+    }
 }
