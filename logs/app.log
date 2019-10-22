@@ -1,0 +1,9 @@
+2019-10-20 12:23:51,116 DEBUG c.e.d.s.SpringprojectApplication [main] Hello from Log4j 2
+2019-10-20 12:23:51,120 INFO c.e.d.s.SpringprojectApplication [main] Staring springggg application
+2019-10-20 12:23:51,120 ERROR c.e.d.s.SpringprojectApplication [main] Error Message Logged !!!
+java.lang.NullPointerException: NullError
+	at com.example.demo.springproject.SpringprojectApplication.main(SpringprojectApplication.java:17) [classes/:?]
+2019-10-20 12:23:51,549 INFO c.e.d.s.SpringprojectApplication [main] Starting SpringprojectApplication on sahanau-a02.vmware.com with PID 27296 (/Users/sahanau/Downloads/springproject/target/classes started by sahanau in /Users/sahanau/Downloads/springproject)
+2019-10-20 12:23:51,552 DEBUG c.e.d.s.SpringprojectApplication [main] Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.2.0.RELEASE
+2019-10-20 12:23:51,552 INFO c.e.d.s.SpringprojectApplication [main] No active profile set, falling back to default profiles: default
+2019-10-20 12:23:54,941 INFO c.e.d.s.SpringprojectApplication [main] Started SpringprojectApplication in 3.689 seconds (JVM running for 4.371)
